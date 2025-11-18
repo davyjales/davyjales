@@ -1,5 +1,5 @@
 # 💫 About Me:
----------------------------------------------------------<br><br>🌎 i am just a brazilian guy <br>🖳  studying computer science - 2/8 semester<br>🎯 trying to learn how to program soon as possible<br>📖 learning front-end in the moment  <br>🔎 looking for a stage<br><br>--------------------------------------------------------- 
+---------------------------------------------------------<br><br>🌎 i am just a brazilian guy <br>🖳  studying computer science - 5/8 semester<br>🎯 to learning how to program, step by step<br>📖 learning front-end in the moment  <br>🔎 looking for a stage<br><br>--------------------------------------------------------- 
 
 
 ## 🌐 Socials:
