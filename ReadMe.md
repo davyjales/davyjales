@@ -1,4 +1,6 @@
+<!-- force refresh -->
 <div align="center">
+ <img src="https://raw.githubusercontent.com/davyjales/davyjales/main/profile.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #00b4d8;" alt="Davy Jales" />
   <img src="https://img.shields.io/badge/Computer%20Science%20Student-5%2F8%20Semester-blue?style=for-the-badge" alt="Computer Science Student" />
   
   <h1>Olá, eu sou o Davy Jales 👋</h1>
@@ -46,12 +48,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davyjales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davyjales&theme=tokyonight" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davyjales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+ <img height="180em" src="https://streak-stats.demolab.com?user=davyjales&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davyjales&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davyjales&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
