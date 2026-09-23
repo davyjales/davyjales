@@ -21,7 +21,7 @@
 ### 💫 Sobre Mim
 
 - 🌎 Brasileiro, atualmente em **Manaus - AM**
-- 🧠 Cursando **Ciência da Computação** (6º/8º semestre)
+- 🧠 Cursando **Ciência da Computação** (7º/8º semestre)
 - 🎯 Foco atual: **Desenvolvimento Front-end**
 - 🔎 Em busca de **estágio** na área de desenvolvimento
 
