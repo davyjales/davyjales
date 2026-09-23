@@ -2,7 +2,7 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/davyjales/davyjales/main/profile.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #00b4d8;" alt="Davy Jales" />
  <br>
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-5%2F8%20Semester-blue?style=for-the-badge" alt="Computer Science Student" />
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-7%2F8%20Semester-blue?style=for-the-badge" alt="Computer Science Student" />
   
   <h1>Olá, eu sou o Davy Jales 👋</h1>
   
